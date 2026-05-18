@@ -6,17 +6,13 @@ void main() {
     double soma = 0;
 
     double[] precos = new double[quantidade];
-
     for (int i = 0; i < precos.length; i++) {
         precos[i] = Double.parseDouble(readln("Digite o " + (i + 1) + "° preço: "));
         soma += precos[i];
     }
-
     double maior = precos[0];
     double menor = precos[0];
-
     for (int i = 0; i < precos.length; i++) {
-
         if (precos[i] > maior) {
             maior = precos[i];
         }
@@ -25,7 +21,6 @@ void main() {
         }
     }
     println("\n===== RESULTADO =====");
-    
     for (int i = 0; i < precos.length; i++) {
         println((i + 1) + "° preço: R$ " + precos[i]);
     }
