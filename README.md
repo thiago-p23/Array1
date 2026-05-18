@@ -1,9 +1,5 @@
 # 📚 Exercícios em Java
 
-Repositório criado para armazenar exercícios desenvolvidos em Java utilizando lógica de programação, arrays, ArrayList, estruturas de repetição e condicionais.
-
----
-
 # 1 Lista de Convidados
 
 ## 📌 Descrição
