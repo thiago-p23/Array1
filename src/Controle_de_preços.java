@@ -4,8 +4,8 @@ void main() {
 
     int quantidade = Integer.parseInt(readln("Digite a quantidade de preços desejados: "));
     double soma = 0;
-
     double[] precos = new double[quantidade];
+    
     for (int i = 0; i < precos.length; i++) {
         precos[i] = Double.parseDouble(readln("Digite o " + (i + 1) + "° preço: "));
         soma += precos[i];
