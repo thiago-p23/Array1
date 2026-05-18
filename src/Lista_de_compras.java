@@ -4,7 +4,6 @@ import java.util.ArrayList;
 void main() {
 
     ArrayList<String> produtos = new ArrayList<>();
-
     int opcao;
 
     while (true) {
@@ -23,7 +22,6 @@ void main() {
             case 1:
                 while (true) {
                     String produto = readln("Digite um produto (ou 'sair'): ");
-
                     if (produto.equals("sair")) {
                         break;
                     }
@@ -73,7 +71,6 @@ void main() {
                         println((i + 1) + " - " + produtos.get(i));
                     }
                 }
-
                 break;
 
             case 6:
