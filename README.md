@@ -1,6 +1,6 @@
 # Exercícios em Java
 
-# 1 Lista de Convidados
+# Lista de Convidados
 
 ## Descrição
 Programa que cadastra convidados, exibe todos os nomes cadastrados e informa a quantidade total de convidados.
@@ -19,7 +19,7 @@ Programa que cadastra convidados, exibe todos os nomes cadastrados e informa a q
 
 ---
 
-# 2 Controle de Preços
+# Controle de Preços
 
 ## Descrição
 Programa que solicita preços, armazena em uma lista e exibe:
@@ -42,7 +42,7 @@ Programa que solicita preços, armazena em uma lista e exibe:
 
 ---
 
-# 3 Lista de Tarefas
+# Lista de Tarefas
 
 ## Descrição
 Programa que permite cadastrar tarefas até o usuário digitar "fim".
@@ -62,7 +62,7 @@ Programa que permite cadastrar tarefas até o usuário digitar "fim".
 
 ---
 
-# 4 Controle de Temperaturas
+# Controle de Temperaturas
 
 ## Descrição
 Programa que recebe temperaturas em Celsius, converte para Fahrenheit e calcula as médias das duas escalas.
@@ -82,7 +82,7 @@ Programa que recebe temperaturas em Celsius, converte para Fahrenheit e calcula 
 
 ---
 
-# 5 Lista de Compras
+# Lista de Compras
 
 ## Descrição
 Sistema de gerenciamento de lista de compras com menu interativo.
