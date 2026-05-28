@@ -1,16 +1,16 @@
-# 📚 Exercícios em Java
+# Exercícios em Java
 
 # 1 Lista de Convidados
 
-## 📌 Descrição
+## Descrição
 Programa que cadastra convidados, exibe todos os nomes cadastrados e informa a quantidade total de convidados.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro dinâmico de convidados
 - Exibição da lista completa
 - Contagem automática de convidados
 
-## 🛠️ Conceitos Utilizados
+## Conceitos Utilizados
 - Array
 - String
 - For
@@ -21,19 +21,19 @@ Programa que cadastra convidados, exibe todos os nomes cadastrados e informa a q
 
 # 2 Controle de Preços
 
-## 📌 Descrição
+## Descrição
 Programa que solicita preços, armazena em uma lista e exibe:
 - todos os preços;
 - soma total;
 - maior preço;
 - menor preço.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro dinâmico de preços
 - Soma automática dos valores
 - Verificação de maior e menor preço
 
-## 🛠️ Conceitos Utilizados
+## Conceitos Utilizados
 - Array
 - Double
 - Acumuladores
@@ -44,16 +44,16 @@ Programa que solicita preços, armazena em uma lista e exibe:
 
 # 3 Lista de Tarefas
 
-## 📌 Descrição
+## Descrição
 Programa que permite cadastrar tarefas até o usuário digitar "fim".
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro ilimitado de tarefas
 - Encerramento com palavra-chave
 - Exibição da lista completa
 - Quantidade total de tarefas
 
-## 🛠️ Conceitos Utilizados
+## Conceitos Utilizados
 - ArrayList
 - While
 - Break
@@ -64,16 +64,16 @@ Programa que permite cadastrar tarefas até o usuário digitar "fim".
 
 # 4 Controle de Temperaturas
 
-## 📌 Descrição
+## Descrição
 Programa que recebe temperaturas em Celsius, converte para Fahrenheit e calcula as médias das duas escalas.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro de temperaturas
 - Conversão automática para Fahrenheit
 - Cálculo das médias
 - Exibição das listas
 
-## 🛠️ Conceitos Utilizados
+## Conceitos Utilizados
 - ArrayList
 - Double
 - Conversão matemática
@@ -84,10 +84,10 @@ Programa que recebe temperaturas em Celsius, converte para Fahrenheit e calcula 
 
 # 5 Lista de Compras
 
-## 📌 Descrição
+## Descrição
 Sistema de gerenciamento de lista de compras com menu interativo.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 1. Adicionar produtos
 2. Pesquisar produtos
 3. Remover produtos
@@ -95,7 +95,7 @@ Sistema de gerenciamento de lista de compras com menu interativo.
 5. Listar produtos
 6. Encerrar programa
 
-## 🛠️ Conceitos Utilizados
+## Conceitos Utilizados
 - ArrayList
 - Switch case
 - While
